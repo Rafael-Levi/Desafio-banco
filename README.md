@@ -1,4 +1,4 @@
-Implementação de algumas funcionalidades em um sistema bancário utilizando python. 
+Implementação de algumas funcionalidades em um sistema bancário utilizando Python. 
 
 #Funcionalidades:  • Depositar
                    • Sacar
