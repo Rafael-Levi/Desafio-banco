@@ -2,7 +2,8 @@
 <h2>
 #Funcionalidades: 
 </h2>
-'''mermaid
+
+```mermaid
 graph TD;
     A[Menu] -->|Selecionar opção| B{Opção selecionada?}
     B -->|Depositar| C(Depositar)
@@ -22,7 +23,7 @@ graph TD;
     J -->|Sim| K(Terminar execução)
     J -->|Não| A
 
+```
 
-'''
 <h3>#Python DOCs:</h3>https://docs.python.org/3/
 
